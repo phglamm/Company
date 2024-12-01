@@ -17,7 +17,7 @@ public class UserPostValidator : AbstractValidator<UserPost>
 
         RuleFor(user => user.Username)
             .NotEmpty().WithMessage("Username is required")
-            .Length(3, 50).WithMessage("Username must be between 3 and 10 characters");
+            .Length(3, 10).WithMessage("Username must be between 3 and 10 characters");
 
         RuleFor(user => user.Password)
             .NotEmpty().WithMessage("Password is required")
