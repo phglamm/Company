@@ -174,3 +174,4 @@ C:\Users\lamph\OneDrive\Documents\API\Company\bin\Debug\net8.0\Microsoft.AspNetC
 C:\Users\lamph\OneDrive\Documents\API\Company\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\lamph\OneDrive\Documents\API\Company\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\lamph\OneDrive\Documents\API\Company\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+c:\Users\lamph\OneDrive\Documents\API\Company\obj\Debug\net8.0\Company.sourcelink.json

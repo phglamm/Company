@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -109,7 +109,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T13:26:12.944Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -119,7 +124,7 @@
               "RelativeDocumentMoniker": "Validator\\UserLoginValidator.cs",
               "ToolTip": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\Validator\\UserLoginValidator.cs",
               "RelativeToolTip": "Validator\\UserLoginValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T06:40:46.889Z",
               "EditorCaption": ""
@@ -151,7 +156,8 @@
               "RelativeToolTip": "Extensions\\Extentsions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T09:58:53.423Z"
+              "WhenOpened": "2024-11-30T09:58:53.423Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -161,9 +167,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABwAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBJwBwAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T09:47:50.606Z"
+              "WhenOpened": "2024-11-30T09:47:50.606Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -214,7 +221,8 @@
               "RelativeToolTip": "DTO\\DepartmentDTO\\DepartmentPost.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T14:40:38.731Z"
+              "WhenOpened": "2024-11-29T14:40:38.731Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -226,7 +234,8 @@
               "RelativeToolTip": "Interface\\IDepartmentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T16:02:42.763Z"
+              "WhenOpened": "2024-11-28T16:02:42.763Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -264,7 +273,8 @@
               "RelativeToolTip": "DTO\\DepartmentDTO\\DepartmentGet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T16:12:04.561Z"
+              "WhenOpened": "2024-11-28T16:12:04.561Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -302,7 +312,8 @@
               "RelativeToolTip": "Validator\\DepartmentPostValidator.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T10:46:19.528Z"
+              "WhenOpened": "2024-11-30T10:46:19.528Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -314,7 +325,8 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T13:45:00.201Z"
+              "WhenOpened": "2024-11-28T13:45:00.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
