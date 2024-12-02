@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{99D490D3-A7DF-46A3-9948-BC8926B93B6F}|Company.csproj|solutionrelative:validator\\userpostvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{99D490D3-A7DF-46A3-9948-BC8926B93B6F}|Company.csproj|c:\\users\\lamph\\onedrive\\documents\\api\\company\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D490D3-A7DF-46A3-9948-BC8926B93B6F}|Company.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{99D490D3-A7DF-46A3-9948-BC8926B93B6F}|Company.csproj|c:\\users\\lamph\\onedrive\\documents\\api\\company\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99D490D3-A7DF-46A3-9948-BC8926B93B6F}|Company.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -82,11 +86,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -95,12 +99,11 @@
               "ViewState": "AgIAABAAAAAAAAAAAAA1wB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T07:04:42.468Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -109,12 +112,27 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T13:26:12.944Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1366854555:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:17:40.144Z"
             },
             {
               "$type": "Document",
@@ -124,14 +142,14 @@
               "RelativeDocumentMoniker": "Validator\\UserLoginValidator.cs",
               "ToolTip": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\Validator\\UserLoginValidator.cs",
               "RelativeToolTip": "Validator\\UserLoginValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T06:40:46.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserLogin.cs",
               "DocumentMoniker": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\DTO\\UserDTO\\UserLogin.cs",
               "RelativeDocumentMoniker": "DTO\\UserDTO\\UserLogin.cs",
@@ -139,16 +157,11 @@
               "RelativeToolTip": "DTO\\UserDTO\\UserLogin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T06:36:19.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1366854555:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+              "WhenOpened": "2024-12-01T06:36:19.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Extentsions.cs",
               "DocumentMoniker": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\Extensions\\Extentsions.cs",
               "RelativeDocumentMoniker": "Extensions\\Extentsions.cs",
@@ -156,12 +169,11 @@
               "RelativeToolTip": "Extensions\\Extentsions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T09:58:53.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T09:58:53.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -169,12 +181,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAIBJwBwAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T09:47:50.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T09:47:50.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
@@ -182,8 +193,7 @@
               "RelativeToolTip": "Controllers\\UserController.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAqwGMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T09:42:21.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T09:42:21.612Z"
             },
             {
               "$type": "Document",
@@ -193,14 +203,13 @@
               "RelativeDocumentMoniker": "Validator\\UserPostValidator.cs",
               "ToolTip": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\Validator\\UserPostValidator.cs",
               "RelativeToolTip": "Validator\\UserPostValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T09:24:51.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T09:24:51.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "UserGet.cs",
               "DocumentMoniker": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\DTO\\UserDTO\\UserGet.cs",
               "RelativeDocumentMoniker": "DTO\\UserDTO\\UserGet.cs",
@@ -208,12 +217,11 @@
               "RelativeToolTip": "DTO\\UserDTO\\UserGet.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T15:50:07.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T15:50:07.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "DepartmentPost.cs",
               "DocumentMoniker": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\DTO\\DepartmentDTO\\DepartmentPost.cs",
               "RelativeDocumentMoniker": "DTO\\DepartmentDTO\\DepartmentPost.cs",
@@ -221,12 +229,11 @@
               "RelativeToolTip": "DTO\\DepartmentDTO\\DepartmentPost.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T14:40:38.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T14:40:38.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "IDepartmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\Interface\\IDepartmentRepository.cs",
               "RelativeDocumentMoniker": "Interface\\IDepartmentRepository.cs",
@@ -234,12 +241,11 @@
               "RelativeToolTip": "Interface\\IDepartmentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T16:02:42.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T16:02:42.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "DepartmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\Repository\\DepartmentRepository.cs",
               "RelativeDocumentMoniker": "Repository\\DepartmentRepository.cs",
@@ -247,12 +253,11 @@
               "RelativeToolTip": "Repository\\DepartmentRepository.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwCoAAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T16:04:01.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T16:04:01.143Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UserPost.cs",
               "DocumentMoniker": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\DTO\\UserDTO\\UserPost.cs",
               "RelativeDocumentMoniker": "DTO\\UserDTO\\UserPost.cs",
@@ -260,12 +265,11 @@
               "RelativeToolTip": "DTO\\UserDTO\\UserPost.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:13:54.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T15:13:54.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "DepartmentGet.cs",
               "DocumentMoniker": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\DTO\\DepartmentDTO\\DepartmentGet.cs",
               "RelativeDocumentMoniker": "DTO\\DepartmentDTO\\DepartmentGet.cs",
@@ -273,12 +277,11 @@
               "RelativeToolTip": "DTO\\DepartmentDTO\\DepartmentGet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T16:12:04.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T16:12:04.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
@@ -286,12 +289,11 @@
               "RelativeToolTip": "Repository\\UserRepository.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAowDMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T14:14:44.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T14:14:44.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\Interface\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Interface\\IUserRepository.cs",
@@ -299,12 +301,11 @@
               "RelativeToolTip": "Interface\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T14:02:35.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T14:02:35.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "DepartmentPostValidator.cs",
               "DocumentMoniker": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\Validator\\DepartmentPostValidator.cs",
               "RelativeDocumentMoniker": "Validator\\DepartmentPostValidator.cs",
@@ -312,12 +313,11 @@
               "RelativeToolTip": "Validator\\DepartmentPostValidator.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T10:46:19.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T10:46:19.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\lamph\\OneDrive\\Documents\\API\\Company\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -325,8 +325,7 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T13:45:00.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T13:45:00.201Z"
             },
             {
               "$type": "Bookmark",
